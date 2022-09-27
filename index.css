@@ -1,11 +1,21 @@
 @media screen and (max-width: 300px) {
   h1 {
-    font-size: 1px;
-    margin-bottom: 50px;
+    
+    font-size: 2rem;
+    margin-bottom: 25px;
+
   }
 
   body{
       width: 100%;
+  }
+  input[type=text] {
+
+    display: inline-block;
+     width: 100%;
+    font-size: 9.3px;
+    
+    
   }
 }
 
